@@ -1,2 +1,2 @@
 # otus_hw_1
-homework 1
+First Otus homework
